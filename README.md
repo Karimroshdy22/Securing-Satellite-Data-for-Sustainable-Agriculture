@@ -8,6 +8,7 @@
 Our team participated in NASA Space Apps 2024 with an innovative project titled *“Securing Satellite Data for Sustainable Agriculture”*. The project aimed to protect critical satellite data used in agriculture to improve crop yields, predict natural disasters, and ensure food security. We simulated secure collection and transmission of satellite data using Python tools and intrusion detection techniques, safeguarding it from cyberattacks or manipulation. The project highlights the importance of cybersecurity in space data applications and its impact on global sustainability.
 
 ## Team Members
+- Karim Roshdy
 - Mohamed Mahmoud
 - Mohamed Nasser
 - Anas Abdelrahman
