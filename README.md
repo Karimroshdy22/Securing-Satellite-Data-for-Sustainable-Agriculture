@@ -22,9 +22,6 @@ I was responsible for identifying potential cybersecurity risks in satellite dat
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 - Email: karimroshdyyy22@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/karim-roshdy-
