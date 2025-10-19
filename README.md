@@ -22,7 +22,10 @@ I was responsible for identifying potential cybersecurity risks in satellite dat
 [View Project Presentation](https://drive.google.com/file/d/1mpMmAbq8HYnr8FL0W9hToA5Z2bJP7mcy/view?usp=sharing)
 
 ## Certificates
+My Certificate 
 - ![My Certificate](https://github.com/Karimroshdy22/Securing-Satellite-Data-for-Sustainable-Agriculture/blob/b5710e67d905999c1b05a0ad6ca19808911d0a67/My%20Certificate.png)
+---
+Team Certificate
 - ![Team Certificate](https://github.com/Karimroshdy22/Securing-Satellite-Data-for-Sustainable-Agriculture/blob/b5710e67d905999c1b05a0ad6ca19808911d0a67/Team%20Certificate.png)
 ---
 
